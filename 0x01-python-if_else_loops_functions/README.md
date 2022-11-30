@@ -21,4 +21,4 @@ What are the arithmetic operators and how to use them
 
 # Tasks
 
-** (./0.Positive anything is better than negative nothing)[0. Positive anything is better than negative nothing]
+** [./0.Positive anything is better than negative nothing](0. Positive anything is better than negative nothing)
