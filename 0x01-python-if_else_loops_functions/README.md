@@ -18,3 +18,7 @@ What does return a function that does not use any return statement
 Scope of variables
 What’s a traceback
 What are the arithmetic operators and how to use them
+
+# Tasks
+
+** (./0.Positive anything is better than negative nothing)[0. Positive anything is better than negative nothing]
